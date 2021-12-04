@@ -1,11 +1,4 @@
 ## Olá! 👋 Sou o Joaquim Silva
-
-
-- 🔭 Hoje trabalho como Full Cycle
-- 🌱 Estudando MERN...
-- 📫 Contate-me no email: joaquimsilvanetojunior@gmail.com
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/joaquimsnjunior">
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=joaquimsnjunior&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
