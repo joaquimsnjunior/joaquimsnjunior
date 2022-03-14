@@ -14,4 +14,4 @@
   
 <br>
 
-Eu sou uma pessoa apaixonada por tecnologia e inovação. Amo participar de comunidades "hackathons, meetups, conferências etc". também gosto de conhecer novas pessoas. <b>Sou empático nos trabalhos desenvolvidos em equipe, sempre incentivo a troca de experiência na equipe porque acredito que a colaboração e a comunicação são pilares fundamentais para o processo de desenvolvimento de pessoas e tecnologia.
+Eu sou uma pessoa apaixonada por tecnologia e inovação. Amo participar de comunidades "hackathons, meetups, conferências etc". também gosto de conhecer novas pessoas. <b>Sou empático</b> nos trabalhos desenvolvidos em equipe, sempre incentivo a troca de experiência na equipe porque acredito que a colaboração e a comunicação são pilares fundamentais para o processo de desenvolvimento de pessoas e tecnologia.
