@@ -17,6 +17,6 @@ My name is Joaquim and I'm a brazilian web developer passionate about technologi
 
 ### Where you can reach me
 <p>
-  <a href="https://linkedin.com/in/nascjoao"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0073B1"></a>
+  <a href="https://linkedin.com/in/joaquim-silva-739764204"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0073B1"></a>
   <a href="mailto:joaquimsilvanetojunior@gmail.com"><img src="https://img.shields.io/badge/Email-joaquimsilvanetojunior@gmail.com-white"></a>
 </p>
