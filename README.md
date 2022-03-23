@@ -1,4 +1,4 @@
-## Glad to have you here! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px">
+## Glad to have you here!
 My name is Joaquim and I'm a brazilian web developer passionate about technologies! 
 
 ### Technologies
