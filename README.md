@@ -1,5 +1,5 @@
 ## Glad to have you here!
-My name is Joaquim and I'm a brazilian web developer passionate about technologies! 
+My name is Joaquim and I'm a brazilian web/mobile developer passionate about technologies! 
 
 ### Technologies
 ![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
