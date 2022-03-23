@@ -1,5 +1,3 @@
-![Image containing the phrase: "I've learned more since the last time you've been here." with another image of Joaquim](image)
-
 ## Glad to have you here! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px">
 My name is Joaquim and I'm a brazilian web developer passionate about technologies! 
 
