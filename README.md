@@ -9,7 +9,7 @@ My name is Joaquim and I'm a brazilian web developer passionate about technologi
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=black&color=EFD81D)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=5ED3F3&color=1E2128)
 ![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
-![React](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=5ED3F3&color=blue)
+![React](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=5ED3F3&color=1E2128)
 
 ### Education
 <p>
