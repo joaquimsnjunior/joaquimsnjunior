@@ -13,7 +13,7 @@ My name is Joaquim and I'm a brazilian web/mobile developer passionate about tec
 ### Education
 <p>
   <a href="https://github.com/rocketseat"><img src="https://img.shields.io/badge/Rocketseat-blueviolet?color=694DB5"></a>
-  <img src="https://img.shields.io/badge/Harvard-blueviolet?color=red">
+  <img src="https://img.shields.io/badge/Harvard-blueviolet?color=E84F1D">
 </p>
 
 ### Where you can reach me
