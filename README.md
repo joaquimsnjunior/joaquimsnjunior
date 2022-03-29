@@ -10,11 +10,6 @@ My name is Joaquim and I'm a brazilian web/mobile developer passionate about tec
 ![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&color=blue)
 
-### Education
-<p>
-  <a href="https://github.com/rocketseat"><img src="https://img.shields.io/badge/Rocketseat-blueviolet?color=694DB5"></a>
-  <img src="https://img.shields.io/badge/Harvard-blueviolet?color=E84F1D">
-</p>
 
 ### Where you can reach me
 <p>
