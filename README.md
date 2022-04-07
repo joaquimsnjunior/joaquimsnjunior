@@ -15,6 +15,9 @@ My name is Joaquim and I'm a brazilian web/mobile developer passionate about tec
 ![ReactNative](https://img.shields.io/badge/ReactNative-blue?logo=react&logoColor=5ED3F3&color=1E2128)
 ![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&color=blue)
+![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&color=E84F1D)
+![Angular](https://img.shields.io/badge/Angular-blue?logo=angular&logoColor=white&color=E84F1D)
+
 
 
 ### Where you can reach me
