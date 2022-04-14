@@ -7,16 +7,6 @@
 ## Glad to have you here!
 My name is Joaquim and I'm a brazilian web/mobile developer passionate about technologies! 
 
-### Technologies
-![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=1E2128)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=1E2128)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white&color=1E2128)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&color=1E2128)
-![ReactNative](https://img.shields.io/badge/ReactNative-blue?logo=react&logoColor=white&color=1E2128)
-![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=1E2128)
-![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&color=1E2128)
-![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white&color=1E2128)
-![Angular](https://img.shields.io/badge/Angular-blue?logo=angular&logoColor=white&color=1E2128)
 
 
 
