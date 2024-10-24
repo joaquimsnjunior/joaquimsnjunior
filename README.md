@@ -23,7 +23,6 @@
   <img align="center" alt="Joaquim-Mensageria" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
 
 </div>
- ##
 
  
 <h3> 🤝🏻 Conecte-se comigo </h3>
