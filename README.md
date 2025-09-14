@@ -8,4 +8,4 @@
 
 Hi, I'm Joaquim! 👋
 
-Full Stack Developer | Passionate about technology in the financial sector | Building solutions that combine code, data, and financial innovation
+
