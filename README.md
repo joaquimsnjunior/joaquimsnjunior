@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="socrates-aristotle-the-school-of-athens-philosophers-plato.jpg" width="400" alt="Socrates And Aristotle">
+      <img src="image-pixel.png" width="400" alt="Socrates And Aristotle">
     </td>
     <td valign="top">
       <h1>Joaquim Silva</h1>
